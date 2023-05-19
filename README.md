@@ -1,2 +1,113 @@
-# toolbase.github.io
-Mkz
+/* Reset default browser styles */
+
+body, h1, h2, h3, h4, h5, h6, p, ul, li {
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+/* Global styles */
+
+body {
+
+  font-family: Arial, sans-serif;
+
+  background-color: #f5f5f5;
+
+  color: #333;
+
+  line-height: 1.5;
+
+}
+
+header {
+
+  background-color: #333;
+
+  color: #fff;
+
+  padding: 20px;
+
+}
+
+nav ul {
+
+  list-style: none;
+
+  display: flex;
+
+}
+
+nav ul li {
+
+  margin-right: 10px;
+
+}
+
+nav ul li a {
+
+  color: #fff;
+
+  text-decoration: none;
+
+  padding: 5px;
+
+}
+
+main {
+
+  padding: 20px;
+
+}
+
+section {
+
+  margin-bottom: 20px;
+
+}
+
+h1, h2, h3 {
+
+  margin-bottom: 10px;
+
+}
+
+h1 {
+
+  font-size: 24px;
+
+}
+
+h2 {
+
+  font-size: 20px;
+
+}
+
+p {
+
+  margin-bottom: 10px;
+
+}
+
+footer {
+
+  background-color: #333;
+
+  color: #fff;
+
+  padding: 10px;
+
+  text-align: center;
+
+}
+
+footer p {
+
+  margin: 0;
+
+}
+
+
